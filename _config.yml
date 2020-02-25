@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Blog di Francesco 
-description: Parliamo di Data Science, Machine Learning, AI ...
-github_username: fratenuta
+description: Parliamo di Data Science, Machine Learning, Artificial Intelligence ...
+github_username: 
 
 # Email and twitter are optional:
-email: francesco.tenut@gmail.com
-twitter_username: francesco_tenut
+email: 
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
 use_math: true
