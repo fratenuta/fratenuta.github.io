@@ -1,3 +1,3 @@
 ## IL MIO NUOVO BLOG
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. ..
